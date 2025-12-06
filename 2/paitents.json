@@ -1,0 +1,32 @@
+{
+    "p001": {
+        "name": "John Doe",
+        "city": "New York",
+        "age": 32,
+        "gender": "Male",
+        "height": 175,
+        "weight": 72,
+        "bmi": 23.5,
+        "verdict": "Normal"
+    },
+    "p002": {
+        "name": "Sara Ali",
+        "city": "Dhaka",
+        "age": 28,
+        "gender": "Female",
+        "height": 160,
+        "weight": 68,
+        "bmi": 26.6,
+        "verdict": "Overweight"
+    },
+    "p003": {
+        "name": "Michael Lee",
+        "city": "London",
+        "age": 45,
+        "gender": "Male",
+        "height": 170,
+        "weight": 92,
+        "bmi": 31.8,
+        "verdict": "Obese"
+    }
+}
