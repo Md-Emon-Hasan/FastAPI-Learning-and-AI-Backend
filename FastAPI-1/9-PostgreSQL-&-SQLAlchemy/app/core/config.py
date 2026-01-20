@@ -32,6 +32,6 @@ class Settings(BaseSettings):
     class Config:
         env_file = ".env"
         env_file_encoding = "utf-8"
-        extra = "ignore"  # এটা add করলে extra fields ignore করবে
+        extra = "ignore"
 
 settings = Settings()
