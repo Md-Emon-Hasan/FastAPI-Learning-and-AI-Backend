@@ -2,6 +2,8 @@
 
 This is a **simple FastAPI repository** for learning and building basic APIs using Python.
 
+<img width="1420" height="947" alt="Image" src="https://github.com/user-attachments/assets/643db94b-a51f-425d-9b2d-9a3ef16d1f1e" />
+
 ---
 
 ## Features
