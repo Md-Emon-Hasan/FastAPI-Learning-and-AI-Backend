@@ -10,7 +10,7 @@ class Settings(BaseSettings):
     # Database
     DATABASE_URL: str = "postgresql://user:pass@localhost/aidb"
     
-    # SQLite for caching and sessions (replaces Redis)
+    # SQLite for caching and sessions
     CACHE_DB_PATH: str = "./data/cache.db"
     SESSION_DB_PATH: str = "./data/sessions.db"
     RATE_LIMIT_DB_PATH: str = "./data/rate_limit.db"
